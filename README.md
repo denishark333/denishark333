@@ -33,7 +33,7 @@
 
 
 
-Sou desenvolvedor de software e criador de conteúdo. Entre uma livestream e outra, construo ferramentas que resolvem problemas que encontro no dia a dia — e que, muitas vezes, também podem ajudar outras pessoas.
+Sou desenvolvedor de software e criador de conteúdo. Entre uma livestream e outra, construo ferramentas que resolvem problemas que encontro no dia a dia, e que, muitas vezes, também podem ajudar outras pessoas.
 
 Meu trabalho passa por aplicações web, integrações entre plataformas, automação e inteligência artificial. Gosto especialmente de projetos que não terminam quando o código funciona: eles precisam ser úteis, fáceis de usar e continuar evoluindo com quem os utiliza.
 
