@@ -41,13 +41,13 @@ Hoje, boa parte do que desenvolvo gira em torno de dois interesses que se encont
 
 ## O que estou construindo
 
-###  [Serial Healer's HUB](https://www.serialhealer.com.br/)
+### [Serial Healer's HUB](https://www.serialhealer.com.br)
 
 O Serial Healer é o ponto de encontro entre minhas livestreams, os projetos que desenvolvo e as comunidades das quais participo.
 
 Mais do que reunir links, a ideia é ter um espaço próprio para publicar conteúdo, disponibilizar ferramentas e dar continuidade ao que acontece durante as transmissões. É também onde posso experimentar soluções que fazem sentido tanto para mim quanto para outros jogadores e criadores.
 
-###  [Chrono Odyssey | Interactive Map](https://www.chronoodyssey.com.br)
+### [Chrono Odyssey | Interactive Map](https://www.chronoodyssey.com.br)
 
 Começou com uma necessidade simples: facilitar a exploração e a troca de informações sobre o mundo de *Chrono Odyssey*.
 
@@ -55,7 +55,7 @@ O projeto cresceu para um mapa interativo com pontos de interesse, filtros e rec
 
 Um dos resultados mais interessantes tem sido a visibilidade do projeto nas buscas pelo jogo, mesmo concorrendo por atenção com fontes oficiais. Para mim, é um bom exemplo de como uma ferramenta independente pode conquistar espaço quando resolve um problema real.
 
-###  [Serial ClipPRO](https://www.serialclip.pro/)
+### [Serial ClipPRO](https://www.serialclip.pro)
 
 Quem faz livestream sabe que uma transmissão não termina quando a live acaba. Muitas vezes, os melhores momentos ficam perdidos em horas de gravação.
 
