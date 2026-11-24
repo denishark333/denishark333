@@ -47,7 +47,7 @@ O Serial Healer é o ponto de encontro entre minhas livestreams, os projetos que
 
 Mais do que reunir links, a ideia é ter um espaço próprio para publicar conteúdo, disponibilizar ferramentas e dar continuidade ao que acontece durante as transmissões. É também onde posso experimentar soluções que fazem sentido tanto para mim quanto para outros jogadores e criadores.
 
-###  [Chrono Odyssey | Interactive Map](https://www.chronoodyssey.com.br/)
+###  [Chrono Odyssey | Interactive Map](https://www.chronoodyssey.com.br)
 
 Começou com uma necessidade simples: facilitar a exploração e a troca de informações sobre o mundo de *Chrono Odyssey*.
 
