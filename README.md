@@ -47,6 +47,7 @@ O Serial Healer é o ponto de encontro entre minhas livestreams, os projetos que
 
 Mais do que reunir links, a ideia é ter um espaço próprio para publicar conteúdo, disponibilizar ferramentas e dar continuidade ao que acontece durante as transmissões. É também onde posso experimentar soluções que fazem sentido tanto para mim quanto para outros jogadores e criadores.
 
+
 ### [Chrono Odyssey | Interactive Map](https://www.chronoodyssey.com.br)
 
 Começou com uma necessidade simples: facilitar a exploração e a troca de informações sobre o mundo de *Chrono Odyssey*.
@@ -54,6 +55,7 @@ Começou com uma necessidade simples: facilitar a exploração e a troca de info
 O projeto cresceu para um mapa interativo com pontos de interesse, filtros e recursos de colaboração. Foi desenvolvido pensando na participação da comunidade, não apenas na consulta de informações.
 
 Um dos resultados mais interessantes tem sido a visibilidade do projeto nas buscas pelo jogo, mesmo concorrendo por atenção com fontes oficiais. Para mim, é um bom exemplo de como uma ferramenta independente pode conquistar espaço quando resolve um problema real.
+
 
 ### [Serial ClipPRO](https://www.serialclip.pro)
 
@@ -63,13 +65,13 @@ O Serial ClipPRO nasceu para ajudar nesse processo: transformar VODs em clipes c
 
 É um dos projetos em que mais exploro Python, modelos de linguagem, processamento de conteúdo e a integração de diferentes etapas em um fluxo de trabalho prático.
 
-###  Serial Creator Studio - Em Breve 
+### [Serial Creator Studio](https://creatorstudio.serialhealer.com.br/)
 
 O Serial Creator Studio nasceu de outra dificuldade que conheço bem como streamer: acompanhar canais e conteúdos espalhados por várias plataformas.
 
 Estou desenvolvendo uma dashboard para centralizar a administração de **YouTube, Twitch e Kick**, reunindo informações e recursos que normalmente exigem navegar entre diferentes painéis.
 
-A integração com os serviços do Google já foi implementada e está aguardando a conclusão do processo de verificação. O projeto continua evoluindo, com a proposta de tornar a rotina de gestão de conteúdo mais simples.
+Cada usuário pode entrar com sua conta e conectar outros canais ao próprio estúdio. A integração Google já foi verificada, e o projeto continua evoluindo com o uso real.
 
 
 ## Uma ideia maior: ferramentas que conversam entre si
