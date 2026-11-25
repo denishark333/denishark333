@@ -1,4 +1,4 @@
-## Tecnologias e ferramentas
+## Tecnologias e Ferramentas
 
 **Linguagens**
 
